@@ -2,14 +2,13 @@
 // 012345678901234567890123456789001234567890123456789012345678900123456789012345678901234567890012345678901234567890123
 
 /**
- * Highcharts file for SkyTrailCash.
  *
- * @package SkyTrailCash
+ * @package JosephGage
  * @subpackage PHP
- * @copyright Copyright (c) 2014, skytrailcash.com
+ * @copyright Copyright (c) 2014, JosephGageDesign
  * @version 1.0
- * @author Joe Gage <joe.gage@dmpinvestments.net>
- * @internal modified on 7/17/2014 by Joe Gage <joe.gage@dmpinvestments.net>
+ * @author Joe Gage <justjoe300e@gmail.com>
+ * @internal modified on 06/28/2016 by Joseph Gage
  * @since V1
  */
 ?>
