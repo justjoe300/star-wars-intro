@@ -7,7 +7,7 @@
  * @subpackage PHP
  * @copyright Copyright (c) 2014, JosephGageDesign
  * @version 1.0
- * @author Joe Gage <justjoe300e@gmail.com>
+ * @author Joe Gage <justjoe300@gmail.com>
  * @internal modified on 06/28/2016 by Joseph Gage
  * @since V1
  */
